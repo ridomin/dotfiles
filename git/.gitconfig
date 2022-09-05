@@ -4,4 +4,4 @@
 [alias]
   co = checkout
   st = status
-  cm = commit
+  cm = commit -m

@@ -1,0 +1,10 @@
+[user]
+  name= ridomin
+  email= ridomin@live.com
+[alias]
+  co = checkout
+  st = status -s
+  cm = commit -m
+  # Commit all changes
+	ca = !git add -A && git commit -av
+

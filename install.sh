@@ -1,1 +1,1 @@
-ln -sv ~/code/dotfiles/git/.gitconfig ~
+ln -sv "$(pwd)"/git/.gitconfig ~

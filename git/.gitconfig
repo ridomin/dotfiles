@@ -1,0 +1,7 @@
+[user]
+  name= ridomin
+  email= ridomin@live.com
+[alias]
+  co = checkout
+  st = status
+  cm = commit

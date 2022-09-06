@@ -1,2 +1,2 @@
-ln -sv "$(pwd)"/git/.gitconfig ~
-ln -sv "$(pwd)"/bash/.bash_aliases ~
+ln -sv "$(pwd)"/.gitconfig ~
+ln -sv "$(pwd)"/.bash_aliases ~
